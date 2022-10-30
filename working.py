@@ -1,4 +1,3 @@
-import re
 import uvicorn
 from fastapi import FastAPI, Path, Query, HTTPException
 from typing import Optional
